@@ -28,7 +28,7 @@ pip install -r requirements.txt
 1. 先前往[Google Cloud Console](https://console.cloud.google.com)创建一个专案
 2. 進入专案，打开`其他產品`，`API 与服务`
 3. 按下`启用 API 和服务`
- -----下内容还未进行翻译-----
+```-----下内容还未进行翻译-----```
 4. 輸入`generative language api`，第一個就是
 5. 點進去，然後點`啟用`
 6. 你會跑到`API/服務詳細資料`，選到`API 和服務`裡的`憑證`
