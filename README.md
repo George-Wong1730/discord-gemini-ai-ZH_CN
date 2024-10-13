@@ -28,14 +28,14 @@ pip install -r requirements.txt
 1. 先前往[Google Cloud Console](https://console.cloud.google.com)创建一个专案
 2. 進入专案，打开`其他產品`，`API 与服务`
 3. 按下`启用 API 和服务`
-4. -----下内容还未进行翻译-----
-5. 輸入`generative language api`，第一個就是
-6. 點進去，然後點`啟用`
-7. 你會跑到`API/服務詳細資料`，選到`API 和服務`裡的`憑證`
-8. 按下`建立憑證`然後選取`API 金鑰`
-9. 他會跳出一個`建立的 API 金鑰`，複製起來
-10. 回到`config.json`，設置`gemini_key`成`["API_Key_1","API_Key_2"]` 你要放多少個都可以
-11. 恭喜你完成了
+ -----下内容还未进行翻译-----
+4. 輸入`generative language api`，第一個就是
+5. 點進去，然後點`啟用`
+6. 你會跑到`API/服務詳細資料`，選到`API 和服務`裡的`憑證`
+7. 按下`建立憑證`然後選取`API 金鑰`
+8. 他會跳出一個`建立的 API 金鑰`，複製起來
+9. 回到`config.json`，設置`gemini_key`成`["API_Key_1","API_Key_2"]` 你要放多少個都可以
+10. 恭喜你完成了
 
 ## 修改提示詞
 1. 先去[這裡](https://makersuite.google.com/u/0/app/prompts/new_chat)，創建一個模板
